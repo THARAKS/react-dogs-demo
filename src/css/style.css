@@ -1,0 +1,16 @@
+body{
+    background-color: #404653;
+    color: bisque;
+}
+div{
+    align-content: center;
+    width: 70%;
+
+}
+button{
+    background: #dd0000;
+    width: 30%;
+}
+.comp1{
+    border: #c0c0c0 solid 2px;;
+}
